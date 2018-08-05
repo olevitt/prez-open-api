@@ -17,6 +17,8 @@
 
 ## Génération de la spec
 <!-- .slide: data-state="no-toc-progress" class="no-toc-progress" -->
+* Une petite démo ?
+[JAX-RS](https://github.com/swagger-api/swagger-core/wiki/Swagger-2.X---Getting-started)  
 
 
 ----
@@ -39,3 +41,20 @@
 <!-- .slide: data-state="no-toc-progress" class="no-toc-progress" -->
 [https://any-api.com/](https://any-api.com/)
 [https://zenika.cloud.tyk.io/portal/apis/](https://zenika.cloud.tyk.io/portal/apis/)
+
+----
+
+## Tl;dr
+<!-- .slide: data-state="no-toc-progress" class="no-toc-progress" -->
+* Standard de documentation d'API
+* Automatisé & automatisable
+* Pas cher
+* Généralisable
+
+Vive la doc \o/
+
+----
+
+<!-- .slide: data-state="no-toc-progress" class="no-toc-progress" -->
+![](miaouh.jpg)
+<!-- .element height="20%" width="50%" -->
