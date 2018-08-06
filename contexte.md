@@ -15,7 +15,7 @@ Application Programming Interface
 
 ## Pourquoi une API ?
 <!-- .slide: data-state="no-toc-progress" class="no-toc-progress" -->
-Ok google, quel temps fait t'il ?  
+Quel temps fait t'il ?  
 [API](https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22)
 
 ----
