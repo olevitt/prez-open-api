@@ -20,7 +20,7 @@ Ok google, quel temps fait t'il ?
 
 ----
 
-## 2018 : API partout, justice nulle part ?
+## 2018 : API partout, justice nulle part
 <!-- .slide: data-state="no-toc-progress" class="no-toc-progress" -->
 La première mission de Bobby  
 [Twitter](https://developer.twitter.com/en/docs.html)<!-- .element: class="fragment" -->  
